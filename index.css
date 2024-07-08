@@ -67,7 +67,7 @@
     height: 36px;
     background-color: #03330d;
     vertical-align: top;
-    background-image: url("./images/serch_icon.png");
+    background-image: url("/images/serch_icon.png");
     background-repeat: no-repeat;
     background-position: 28px 6px;
     cursor: pointer;
