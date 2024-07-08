@@ -212,7 +212,7 @@
 .other-nav-list .picture {
     width: 48px;
     height: 48px;
-    background-image:url("./images/図の集合.png") ;
+    background-image:url("/images/図の集合.png") ;
 }
 .other-nav-list:nth-child(1) li:nth-child(1) .picture {
     background-position: 0 0;
